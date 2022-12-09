@@ -10,6 +10,42 @@ Al seleccionar la respuesta correcta el botón se deshabilitara (ya no se podra 
 
 >![image](https://user-images.githubusercontent.com/60879365/206634724-d3b630bb-3e2f-44ba-8daf-30ec9c5be738.png)
 
+## **Requerimientos**
+
+### **Historia de usuario 1**
+
+* **Título:**  Seleccion de palabras ofensivas, tipo captcha
+
+* **Descripción:** En la página principal se debe generar una oracion o expresion aleatoria para que el usuario seleccione a cual clasificacion cree que pertenece, ya sea racista, machista, ofensiva o no ofensiva y si es la correcta se marcara el botón (deshabilitar). Se debe tener un botón con el texto "probar otro comentario" para poder seguir viendo oraciones aleatorias.
+
+* **Criterio de aceptación:** Al precionar el botón "probar otro comentario" recargue la página y aparezca una nueva oracion y los botones con las opciones de habiliten de nuevo.
+
+### **Historia de usuario 2**
+
+* **Título:**  Selección de comentarios
+
+* **Descripción:** La selección de los comentarios es en base a cuatro clasificaciones: Comentario racista, comentario machista, comentario ofensivo,comentario no ofensivo y debe verificar con la respuesta que se tiene la base de datos de datos y desmarcarla si es la correcta.
+
+* **Criterio de aceptación:** Al precionar la opcion correcta se deshabilita la opción
+
+### **Historia de usuario 3** 
+
+* **Título:**  Votación del captcha
+
+* **Descripción:** Al elegir una opción del captcha sea correcta o incorrecta guardar la opción y mostrar cuántos votos tiene cada opcion de cada oración.
+
+* **Criterio de aceptación:** Mostrar en pantalla la votacion de cada oración para las cuatro opciones.
+
+### **Historia de usuario 4**
+
+* **Título:**  Convertir a librería, como un componente
+
+* **Descripción:** Convertir en una libreria que permita implementar en un proyecto.
+
+* **Criterio de aceptación:** Implementar la libreria en otro proyecto.
+
+## **Instalación**
+
 Para la instalación se debe seguir los siguientes pasos después de clonar el repositorio:
 
 ### **1. Implementar la base de datos de manera local**
