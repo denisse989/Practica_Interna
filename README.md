@@ -45,13 +45,13 @@ Para el frontend instalaremos la siguiente libreria en la carpeta my-app por med
 
 ### **4. Iniciar el backend** 
 
-Para iniciar el backend y realizar la conexión a la base de datos ejecutamos el comando npm start en la terminal dentro de la carpeta backend. Si todo está bien nos debe dar el mensaje ``Connected to backend``.
+Para iniciar el backend y realizar la conexión a la base de datos ejecutamos el comando ``npm start`` en la terminal dentro de la carpeta backend. Si todo está bien nos debe dar el mensaje ``Connected to backend``.
 
 >![image](https://user-images.githubusercontent.com/60879365/206633970-8d7c87f3-4194-41bf-9eb9-1ed11914de17.png)
 
 ### **5. Iniciar el frontend**
 
-Finalmente para iniciar el frontend y que se abra nuestra página ejecutamos el comando npm start en la terminal dentro de la carpeta my-app. Si todo está bien nos debe dar abrir la página y en la terminal ver el mensaje ``Compiled successfully!``. 
+Finalmente para iniciar el frontend y que se abra nuestra página ejecutamos el comando ``npm start`` en la terminal dentro de la carpeta my-app. Si todo está bien nos debe dar abrir la página y en la terminal ver el mensaje ``Compiled successfully!``. 
 
 Puede tomar un poco de tiempo que se cargue la página en el navegador.
 
